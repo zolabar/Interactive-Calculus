@@ -1,9 +1,5 @@
 {
-    "VoilaConfiguration": {
-        "enable_nbextensions": true,
-        "template": "dark",
-        "extension_language_mapping": {
-            ".py": "python",
-        },
-    }
+  "VoilaConfiguration": {
+    "theme": "dark"
+  }
 }
