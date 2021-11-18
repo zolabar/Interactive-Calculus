@@ -8,3 +8,4 @@ seaborn
 voila
 numba
 openpyxl
+kaleido
